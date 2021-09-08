@@ -3,4 +3,4 @@ tensorflow==2.6.0
 Pillow==8.1.0
 numpy==1.19.5
 streamlit==0.88.0
-0opencv-python-headless==4.5.3.56
+opencv-python-headless==4.5.3.56
